@@ -1,0 +1,8 @@
+# Configuration file for the server
+port=9090
+hostname=localhost
+maxThreads=20
+documentRoot=./public
+
+# Log level (DEBUG, INFO, WARNING, ERROR)
+logLevel=INFO
