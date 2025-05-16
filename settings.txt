@@ -1,5 +1,5 @@
 # Configuration file for the server
-port=9090
+port=22
 hostname=localhost
 maxThreads=20
 documentRoot=./public
